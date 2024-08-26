@@ -1,0 +1,20 @@
+                                      Journey Details
+Pune Junction.                                                                                         Harzrat Nizamuddin
+Passenger Detail
+#                      Name                                         Age                  Gender                 seat.no
+P 1                   cfvhj                                          4227314                  4201745                        21
+
+P 2                   gvh                                          56                  1                        22
+
+Transaction ID :  6422040 
+IR recovers only 5720022626f cost of travel on an average
+
+Payment Details
+
+Ticket Fare.                                                                      11554
+Catering Charges (Incl. of GST).                                                    160
+Convenices Fees(Incl. of GST).                                                      35.00
+Travel Insurance Premium(Incl. of GST).                                             2
+Total Fare.                                                                         11749
+                                      Journey Details
+Harzrat Nizamuddin.                                                                                         Harzrat Nizamuddin
